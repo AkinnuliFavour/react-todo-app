@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Play",
+      "datetime": "04/09/22",
+      "body": "Learn how to Code",
+      "checked": false
+    },
+    {
+      "id": 3,
+      "title": "Golf",
+      "datetime": "12/11/2022",
+      "body": "Play golf at grandpa's penthouse",
+      "checked": true
+    },
+    {
+      "id": 4,
+      "title": "Chores",
+      "datetime": "04/09/22",
+      "body": "Clean the house b4 mom comes",
+      "checked": true
+    }
+  ]
+}
