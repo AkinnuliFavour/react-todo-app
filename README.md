@@ -5,5 +5,5 @@ This project is open to corrections if you think there are changes to be made to
 It should be noted that JSON server was used for storing app data.
 Run:
 npm install -g json-server, then,
-npm -w data/db.json -p 3500 to get access to app data
+json-server --w data/db.json --p 3500 to get access to app data
 For more details visit: https://www.npmjs.com/package/json-server
